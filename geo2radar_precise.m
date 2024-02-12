@@ -29,8 +29,9 @@
 %   - Wang, C., L. Chang, X. S. Wang, B. Zhang, and A. Stein (2024), Interferometric Synthetic 
 %     Aperture Radar Statistical Inference in Deformation Measurement and Geophysical Inversion: 
 %     A Review, IEEE Geoscience and Remote Sensing Magazine, 2-29.
-%   - Wang, C., Wei, M., Qin, X., Li, T., Chen S., Zhu, C., Liu, P., Chang, L., 
-%     Three-dimensional lookup table for more precise SAR scatterers positioning in urban scenarios.
+%   - Wang, C., M. Wei, X. Qin, T. Li, S. Chen, C. Zhu, P. Liu, and L. Chang (2024), Three-dimensional
+%     lookup table for more precise SAR scatterers positioning in urban scenarios, ISPRS Journal of 
+%     Photogrammetry and Remote Sensing, 209, 133-149.
 % -----------------------------------------------------------------------------------------
 %% Read Parameters
 rslcpar = 'data/20191103.slc.par';
